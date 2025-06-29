@@ -21,4 +21,5 @@ P.Ex. 2. Qual faturamento totsl de vendas de planos anuais, separado por auto re
 ![image](https://github.com/user-attachments/assets/f7db2ae8-6505-4349-ba51-ce8c70b2ddf5)
 
 ![image](https://github.com/user-attachments/assets/90d52678-a787-462c-8b3e-b90991bd7019)
+[00_Desafio_Dashboard_ROSH.xlsx](https://github.com/user-attachments/files/20969069/00_Desafio_Dashboard_ROSH.xlsx)
 
